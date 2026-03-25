@@ -1,4 +1,4 @@
-# 🌐 Aditya Bhatt — Cybersecurity Portfolio
+# 🌐 Paul Kirubakaran M — Cybersecurity Portfolio
 
 Welcome to my personal portfolio website, hosted via GitHub Pages!
 
@@ -10,7 +10,7 @@ This website showcases my professional journey, technical skills, certifications
 
 ## 🚀 Live Website
 
-Visit the portfolio: [https://adityabhatt3010.github.io](https://adityabhatt3010.github.io)
+Visit the portfolio: [https://adityabhatt3010.github.io](https://paulkirubakaranm6.github.io)
 
 ---
 
