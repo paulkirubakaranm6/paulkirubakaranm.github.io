@@ -63,11 +63,11 @@ This site is deployed using [GitHub Pages](https://pages.github.com/), a free an
 ## 📧 Connect With Me
 
 - 🔗 [Linktree](https://linktr.ee/paulkirubakaranm6)
-- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-bhatt-b61868250/)
-- 🐙 [GitHub](https://github.com/adityabhatt3010)
-- 📝 [Medium](https://medium.com/@info.adityabhatt3010)
-- 🛡️ [TryHackMe](https://tryhackme.com/p/info.adityabhatt)
-- 🎖️ [Credly](https://www.credly.com/users/aditya-bhatt3010)
+- 💼 [LinkedIn](https://www.linkedin.com/in/paul-kirubakaran-m-9b35a1373/)
+- 🐙 [GitHub](https://github.com/paulkirubakaranm6)
+- 📝 [Medium](https://medium.com/@paulkirubakaranm6)
+- 🛡️ [TryHackMe](https://tryhackme.com/p/paulkirubakaranm6)
+- 🎖️ [Credly](https://www.credly.com/users/paul-kirubakaran-m)
 
 ---
 
